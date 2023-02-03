@@ -1,0 +1,14 @@
+{"system":
+    {"optimizer":
+        {"batch_size": 4,
+        "num_workers": 2,
+        "max_epochs" :10,
+        "lr":1e-5
+
+        },
+        "save_dir": "./artifacts/ckpts/train"
+    },
+    "sect": "comp"
+    
+}
+
